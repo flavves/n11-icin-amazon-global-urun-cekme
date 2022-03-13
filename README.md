@@ -4,3 +4,4 @@ Amazon globalden n11 sitenizdeki ürünleri güncellemeniz için geliştirilmiş
 https://batuhanokmen.com
 Dilediğiniz şekilde kullanabilirsiniz.
 Copyright 2022 Batuhanokmen.com
+Bu yazılımın tüm hakları GPL lisansı altında korunmaktadır.
